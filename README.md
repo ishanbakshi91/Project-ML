@@ -2,17 +2,31 @@
 
 ## Problem Statement
 
-### The purposes of this data is to look into the different features to observe their relationship, ML model based on several features of individual such as age, physical/family condition and location against their existing medical expense to be used for predicting future medical expenses of individuals that help medical insurance to make decision on charging the premium.
+### The purpose of this data is to examine the different features to observe their relationship. The ML model is based on several features of individuals, such as age, physical/family condition, and location, against their existing medical expenses to predict future medical expenses of individuals. This helps the medical insurance company decide to charge the premium.
+
+---
 
 
-## Tech Stack used:
+### Project Building
 
-Python Modular Coding
-Machine Learning
-MongoDB Database
-AWS Cloud
-Apache
-Docker
-Grafana
-DVC
-MLFLOW
+- Upload the data in Database
+- Data Ingestion
+- Data Validation
+- Data Transformation
+- Model Traning
+- Model Analysis & Valididation
+- Model Deployment
+
+
+### Tech Stack used:
+
+- Python Modular Coding
+- Machine Learning
+- MongoDB Database
+- AWS Cloud
+- Apache
+- Docker
+- Grafana
+- DVC
+- MLFLOW
+
